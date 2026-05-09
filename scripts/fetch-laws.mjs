@@ -1,1 +1,1 @@
-"console.log('Заглушка. Парсер законов не требуется.')" | Out-File -FilePath scripts/fetch-laws.mjs -Encoding ASCII
+console.log('parser stub')

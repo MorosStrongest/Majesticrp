@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run parse-laws && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "parse-laws": "node scripts/fetch-laws.mjs"
   },
